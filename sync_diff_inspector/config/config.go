@@ -51,7 +51,7 @@ const (
 
 	baseSplitThreadCount = 3
 
-	UnifiedTimeZone string = "+0:00"
+	UnifiedTimeZone string = "+8:00"
 )
 
 // TableConfig is the config of table.
